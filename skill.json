@@ -1,75 +1,75 @@
 
         {
-                language:[
+                'language':[
                     {
-                        name: 'Python',
-                        color: '3776AB',
+                        'name': 'Python',
+                        'color': '3776AB',
                     },
                     {
-                        name: 'java',
-                        color: 'orange',
+                        'name': 'java',
+                        'color': 'orange',
                     },
                     {
-                        name: 'JavaScript',
-                        color: 'F7DF1E',
+                        'name': 'JavaScript',
+                        'color': 'F7DF1E',
                     },
                     {
-                        name: 'C Sharp',
-                        color: '239120',
-                    },
-                ],
-                webDev:[
-                    {
-                        name: 'Node.js',
-                        color: '339933',
-                    },
-                    {
-                        name: 'Express.js',
-                        color: 'orange',
-                    },
-                    {
-                        name: 'React',
-                        color: '61DAFB',
-                    },
-                    {
-                        name: 'Vue.js',
-                        color: '4FC08D',
-                    },
-                    {
-                        name: 'Spring Boot',
-                        color: '6DB33F',
+                        'name': 'C Sharp',
+                        'color': '239120',
                     },
                 ],
-                database: [
+                'webDev':[
                     {
-                        name: 'MySQL',
-                        color: '4479A1',
+                        'name': 'Node.js',
+                        'color': '339933',
                     },
                     {
-                        name: 'MariaDB',
-                        color: '003545',
+                        'name': 'Express.js',
+                        'color': 'orange',
                     },
                     {
-                        name: 'Oracle',
-                        color: 'F80000',
+                        'name': 'React',
+                        'color': '61DAFB',
+                    },
+                    {
+                        'name': 'Vue.js',
+                        'color': '4FC08D',
+                    },
+                    {
+                        'name': 'Spring Boot',
+                        'color': '6DB33F',
                     },
                 ],
-                etc: [
+                'database': [
                     {
-                        name: 'GitHub',
-                        color: '181717',
+                        'name': 'MySQL',
+                        'color': '4479A1',
                     },
                     {
-                        name: 'Docker',
-                        color: '2496ED',
+                        'name': 'MariaDB',
+                        'color': '003545',
                     },
                     {
-                        name: 'CentOS',
-                        color: '262577',
+                        'name': 'Oracle',
+                        'color': 'F80000',
+                    },
+                ],
+                'etc': [
+                    {
+                        'name': 'GitHub',
+                        'color': '181717',
                     },
                     {
-                        name: 'Amazon AWS',
-                        color: 'FF9900',
+                        'name': 'Docker',
+                        'color': '2496ED',
+                    },
+                    {
+                        'name': 'CentOS',
+                        'color': '262577',
+                    },
+                    {
+                        'name': 'Amazon AWS',
+                        'color': 'FF9900',
                 },
         ],
 
