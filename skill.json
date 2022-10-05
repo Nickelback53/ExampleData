@@ -3,73 +3,73 @@
     "language": [
       {
         "name": "Python",
-        "color": "3776AB",
+        "color": "3776AB"
       },
       {
         "name": "java",
-        "color": "orange",
+        "color": "orange"
       },
       {
         "name": "JavaScript",
-        "color": "F7DF1E",
+        "color": "F7DF1E"
       },
       {
         "name": "C Sharp",
-        "color": "239120",
+        "color": "239120"
       },
     ],
       "webDev": [
         {
           "name": "Node.js",
-          "color": "339933",
+          "color": "339933"
         },
         {
           "name": "Express.js",
-          "color": "orange",
+          "color": "orange"
         },
         {
           "name": "React",
-          "color": "61DAFB",
+          "color": "61DAFB"
         },
         {
           "name": "Vue.js",
-          "color": "4FC08D",
+          "color": "4FC08D"
         },
         {
           "name": "Spring Boot",
-          "color": "6DB33F",
+          "color": "6DB33F"
         },
       ],
         "database": [
           {
             "name": "MySQL",
-            "color": "4479A1",
+            "color": "4479A1"
           },
           {
             "name": "MariaDB",
-            "color": "003545",
+            "color": "003545"
           },
           {
             "name": "Oracle",
-            "color": "F80000",
+            "color": "F80000"
           },
         ],
           "etc": [
             {
               "name": "GitHub",
-              "color": "181717",
+              "color": "181717"
             },
             {
               "name": "Docker",
-              "color": "2496ED",
+              "color": "2496ED"
             },
             {
               "name": "CentOS",
-              "color": "262577",
+              "color": "262577"
             },
             {
               "name": "Amazon AWS",
-              "color": "FF9900",
+              "color": "FF9900"
             }
          ]
 
